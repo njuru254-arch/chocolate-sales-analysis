@@ -22,7 +22,7 @@ The dashboard is built to provide actionable insights through four main analytic
 2.  **Seasonality:** Clear revenue peaks were identified in early Q1(january,february,march), suggesting seasonal gifting trends.
 3.  **Product Optimization:** The Top 10 list shows that a small percentage of products drive the majority of the profit (Pareto Principle)
 ## Dashboard Preview
-(dashboard_chocolate_sales.png)
+(dashboard chocolate sales.png)
 ---
 **Author:** Ian Njuru  
 **Date:** Jan 2026  
